@@ -7,4 +7,7 @@ Objectives: NLP Supervised Classification on Yelp Dataset
             Sentiment Analysis on Yelp Dataset
 
 ## Tools
-![Alt text](C:\Users\fa\Desktop?raw=true "Title")
+![image](https://user-images.githubusercontent.com/87232397/154207381-eed2ffcd-90e5-416d-9456-c86b6ae1a5d6.png)
+
+## Methodology
+
